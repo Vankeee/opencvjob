@@ -1,0 +1,31 @@
+1
+first num is28, simi is:0.83466
+second num is18, simi is:0.73771
+
+2
+first num is28, simi is:0.00000
+second num is18, simi is:0.00000
+
+3
+first num is28, simi is:0.00000
+second num is18, simi is:0.00000
+
+4
+first num is29, simi is:0.63442
+second num is29, simi is:0.62371
+
+5
+first num is31, simi is:0.81388
+second num is29, simi is:0.77391
+
+6
+first num is18, simi is:0.57605
+second num is25, simi is:0.55808
+
+7
+first num is5, simi is:0.55598
+second num is25, simi is:0.00000
+8
+first num is5, simi is:0.58627
+second num is5, simi is:0.57770
+
